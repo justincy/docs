@@ -397,7 +397,7 @@ inheritance apply. For example, mixin classes can define constructors, can call 
 with `super`, and so on.
 
 **Document your mixins.** The Polymer build and lint tools require some extra documentation tags
-to property analyze mixins and elements that use them. Without the documentation tags, the tools
+to properly analyze mixins and elements that use them. Without the documentation tags, the tools
 will log warnings. For details on documenting mixins, see [Class mixins](../tools/documentation#class-mixins)
 in Document your elements.
 {.alert .alert-info}
